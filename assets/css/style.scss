@@ -1,0 +1,9 @@
+---
+---
+{% assign page_width = site.page_width %}
+
+$content-width:    {{page_width}} !default;
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
