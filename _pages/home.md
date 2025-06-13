@@ -1,50 +1,30 @@
 ---
-title: "Allan Lab - Home"
+title: "Cheng Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Cheng Lab at Yale University"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+[comment]: <> (**News: Our group (404) moved to the University of Munich (LMU)!** Join us!) 
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+We are a computational genomics research group at [Yale Biomedical Informatics and Data Science](https://medicine.yale.edu/biomedical-informatics-data-science/) and at the [Yale Center for Genomic Health](https://medicine.yale.edu/genetics/research/yale-center-for-genomic-health/). 
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+Our research is dedicated to creating 
+**highly efficient computational methodologies** for genomic applications, including genome assembly, read alignment, variant calling, and string indexing.
+We have developed a series of *de novo* genome assembly algorithms (e.g. [hifiasm][Hifiasm]) that have been extensively utilized across a variety of large-scale sequencing projects, such as the [Human Pangenome Reference Consortium][HPRC], the [Vertebrate Genomes Project][VGP], and the [Darwin Tree of Life project][DWOT]. Within these projects, we also work closely with collaborators to explore the applications of genome assemblies. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cover1.png" alt="Slide 1" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -58,18 +38,33 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new PhD and MS students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
 
 
 
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_bids.svg" style="width: 300px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/YSM.jpeg" style="width: 50px">
 </figure>
+
+[DFCI]: https://ds.dfci.harvard.edu/
+[HSPH]: https://www.hsph.harvard.edu/
+[LiuLab]: https://liulab-dfci.github.io/
+[MylesLab]: https://mylesbrownlab.dana-farber.org/
+[LinLab]: https://content.sph.harvard.edu/xlin/people.html
+[SongLab]: https://song.igb.illinois.edu/
+[UIUC]: https://illinois.edu/
+[BIDS]: https://medicine.yale.edu/biomedical-informatics-data-science/
+[Hifiasm]: https://github.com/chhylp123/hifiasm
+[HPRC]: https://humanpangenome.org/
+[VGP]: https://vertebrategenomesproject.org/
+[DWOT]: https://www.darwintreeoflife.org/
+[DukeSoM]: https://medschool.duke.edu
+[DukeNeurosurgery]: https://neurosurgery.duke.edu/news/yi-zhang-joins-duke-neurosurgery-faculty
+[DukeBB]: https://biostat.duke.edu
+[Contact]: mailto:yi.zhang@duke.edu
+[CBB]: https://medschool.duke.edu/education/biomedical-phd-programs/computational-biology-and-bioinformatics-program
+[Vaca]: https://hcheng-lab.github.io/join/
+

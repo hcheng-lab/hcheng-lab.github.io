@@ -1,0 +1,31 @@
+- title: "Efficient near telomere-to-telomere assembly of Nanopore Simplex reads"
+  authors: <b>Cheng H</b><sup>&#8224;</sup>, Qu H, McKenzie S, Lawrence KR, Windsor R, Vella M, Park PJ and Li H<sup>&#8224;</sup>  
+  year: 2025
+  url: https://www.biorxiv.org/content/10.1101/2025.04.14.648685v1
+  display: <i>bioRxiv</i>
+  pmid: pending
+  type: 1
+
+- title: "Scalable telomere-to-telomere assembly for diploid and polyploid genomes with double graph"
+  authors: <b>Cheng H</b>, Asri M, Lucas J, Koren S, Li H<sup>&#8224;</sup>
+  year: 2024
+  url: https://rdcu.be/dHxG3
+  display: <i>Nat Methods</i>
+  pmid: 38730258
+  type: 1
+
+- title: "Haplotype-resolved assembly of diploid individuals without parental data"
+  authors: <b>Cheng H</b>, Jarvis ED, Fedrigo O, Koepfli K-P, Urban L, Gemmell NJ, Li H<sup>&#8224;</sup>
+  year: 2022
+  url: https://rdcu.be/cJM9E
+  display: <i>Nat Biotechnol</i>
+  pmid: 35332338
+  type: 1
+
+- title: "Haplotype-resolved de novo assembly with phased assembly graphs with hifiasm"
+  authors: <b>Cheng H</b>, Concepcion GT, Feng X, Zhang H, Li H<sup>&#8224;</sup>
+  year: 2021
+  url: https://rdcu.be/cezFi
+  display: <i>Nat Methods</i>
+  pmid: 33526886
+  type: 1
