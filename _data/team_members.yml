@@ -8,11 +8,14 @@
   education3: <a href="../images/Haoyu_Cheng_CV_public.pdf"> Full CV</a>
 
 - name: Barış Ekim
-  photo: default.jpg
-  info: Postdoc (co-mentored with Ira Hall), started June 2025
+  photo: baris.jpeg
+  info: Postdoc (co-mentored with <a href="https://medicine.yale.edu/profile/ira-hall/">Ira Hall</a>), started June 2025
   email: NA
-  number_educ: 1
-  education1: PhD with <a href="https://labberger.github.io/">Bonnie Berger</a>, Massachusetts Institute of Technology
+  number_educ: 4
+  education1: PhD with <a href="https://labberger.github.io/">Bonnie Berger</a>, Massachusetts Institute of Technology, May 2025
+  education2: SM in Computer Science, Massachusetts Institute of Technology, August 2022
+  education3: SB in Computer Science and Molecular Biology and Mathematics, May 2020
+  education4: <a href="https://people.csail.mit.edu/ekim/">Personal Website</a>
 
 - name: Zezhen Du
   photo: default.jpg
