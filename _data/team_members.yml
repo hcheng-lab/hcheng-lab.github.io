@@ -23,3 +23,24 @@
   email: NA
   number_educ: 1
   education1: PhD with <a href="https://scholar.google.com/citations?user=8kyDCksAAAAJ&hl=en">Wen-Biao Jiao</a> at Huazhong Agricultural University, China
+
+- name: Kang Hu
+  photo: default.jpg
+  info: Postdoc, started October 2025
+  email: NA
+  number_educ: 1
+  education1: PhD with <a href="https://scholar.google.com/citations?user=7pgY2F0AAAAJ&hl=en">Jianxin Wang</a> at Central South university, China
+
+- name: Minoli Daigavane
+  photo: default.jpg
+  info: Yale CBB master student, started October 2025
+  email: NA
+  number_educ: 1
+  education1: B.A., UC Berkeley, US
+
+- name: Yifei Wang
+  photo: default.jpg
+  info: Yale CBB master student, started October 2025
+  email: NA
+  number_educ: 1
+  education1: B.S., Sun Yat-sen University, China
